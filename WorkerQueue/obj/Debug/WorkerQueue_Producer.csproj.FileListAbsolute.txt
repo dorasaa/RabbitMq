@@ -1,0 +1,12 @@
+c:\Dev\Rabbitmq\WorkerQueue\obj\Debug\WorkerQueue_Producer.csprojResolveAssemblyReference.cache
+c:\Dev\Rabbitmq\WorkerQueue\bin\Debug\WorkerQueue.exe.config
+c:\Dev\Rabbitmq\WorkerQueue\bin\Debug\WorkerQueue.exe
+c:\Dev\Rabbitmq\WorkerQueue\bin\Debug\WorkerQueue.pdb
+c:\Dev\Rabbitmq\WorkerQueue\bin\Debug\Common.dll
+c:\Dev\Rabbitmq\WorkerQueue\bin\Debug\RabbitMQ.Client.dll
+c:\Dev\Rabbitmq\WorkerQueue\bin\Debug\Newtonsoft.Json.dll
+c:\Dev\Rabbitmq\WorkerQueue\bin\Debug\Common.pdb
+c:\Dev\Rabbitmq\WorkerQueue\bin\Debug\RabbitMQ.Client.xml
+c:\Dev\Rabbitmq\WorkerQueue\bin\Debug\Newtonsoft.Json.xml
+c:\Dev\Rabbitmq\WorkerQueue\obj\Debug\WorkerQueue.exe
+c:\Dev\Rabbitmq\WorkerQueue\obj\Debug\WorkerQueue.pdb

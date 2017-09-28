@@ -1,0 +1,14 @@
+c:\Dev\Rabbitmq\Rabbitmq\obj\Debug\StandardQueue.csprojResolveAssemblyReference.cache
+c:\Dev\Rabbitmq\Rabbitmq\obj\Debug\Rabbitmq.exe
+c:\Dev\Rabbitmq\Rabbitmq\obj\Debug\Rabbitmq.pdb
+c:\Dev\Rabbitmq\Rabbitmq\bin\Debug\Rabbitmq.exe.config
+c:\Dev\Rabbitmq\Rabbitmq\bin\Debug\Rabbitmq.exe
+c:\Dev\Rabbitmq\Rabbitmq\bin\Debug\Rabbitmq.pdb
+c:\Dev\Rabbitmq\Rabbitmq\bin\Debug\Common.dll
+c:\Dev\Rabbitmq\Rabbitmq\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+c:\Dev\Rabbitmq\Rabbitmq\bin\Debug\Newtonsoft.Json.dll
+c:\Dev\Rabbitmq\Rabbitmq\bin\Debug\RabbitMQ.Client.dll
+c:\Dev\Rabbitmq\Rabbitmq\bin\Debug\Common.pdb
+c:\Dev\Rabbitmq\Rabbitmq\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+c:\Dev\Rabbitmq\Rabbitmq\bin\Debug\Newtonsoft.Json.xml
+c:\Dev\Rabbitmq\Rabbitmq\bin\Debug\RabbitMQ.Client.xml

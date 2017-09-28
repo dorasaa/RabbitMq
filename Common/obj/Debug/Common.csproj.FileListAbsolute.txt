@@ -1,0 +1,7 @@
+c:\Dev\Rabbitmq\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+c:\Dev\Rabbitmq\Common\bin\Debug\Common.dll
+c:\Dev\Rabbitmq\Common\bin\Debug\Common.pdb
+c:\Dev\Rabbitmq\Common\bin\Debug\Newtonsoft.Json.dll
+c:\Dev\Rabbitmq\Common\bin\Debug\Newtonsoft.Json.xml
+c:\Dev\Rabbitmq\Common\obj\Debug\Common.dll
+c:\Dev\Rabbitmq\Common\obj\Debug\Common.pdb

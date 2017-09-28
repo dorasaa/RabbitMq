@@ -1,0 +1,11 @@
+c:\dev\Rabbitmq\Rabbitmq\bin\Debug\Rabbitmq.exe.config
+c:\dev\Rabbitmq\Rabbitmq\bin\Debug\Rabbitmq.exe
+c:\dev\Rabbitmq\Rabbitmq\bin\Debug\Rabbitmq.pdb
+c:\dev\Rabbitmq\Rabbitmq\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+c:\dev\Rabbitmq\Rabbitmq\bin\Debug\Newtonsoft.Json.dll
+c:\dev\Rabbitmq\Rabbitmq\bin\Debug\RabbitMQ.Client.dll
+c:\dev\Rabbitmq\Rabbitmq\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+c:\dev\Rabbitmq\Rabbitmq\bin\Debug\Newtonsoft.Json.xml
+c:\dev\Rabbitmq\Rabbitmq\bin\Debug\RabbitMQ.Client.xml
+c:\dev\Rabbitmq\Rabbitmq\obj\Debug\Rabbitmq.exe
+c:\dev\Rabbitmq\Rabbitmq\obj\Debug\Rabbitmq.pdb
